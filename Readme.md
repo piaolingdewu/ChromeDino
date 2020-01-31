@@ -1,4 +1,4 @@
-# 用UE4复刻Chrome离线游戏 Dion
+# 用UE4复刻Chrome离线游戏 Dino
 
 #### 素材地址
 [点击转到](https://github.com/wayou/t-rex-runner.git)
