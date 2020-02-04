@@ -1,0 +1,7 @@
+FileVersion:2
+Type:Static
+Guid:5D250E3D-4427-DC4A-9B62-B7920D4E3C9F
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/BluePrint/UI/Ach/Number_BP.Number_BP
+/Game/BluePrint/UI/GameOver_BP.GameOver_BP
